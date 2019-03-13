@@ -1,4 +1,3 @@
-//script cek credit
 'use strict';
 var _0x9828 = ["href", "attr", "#dpr-credit,.dpr-credit", "http://dulipret.blogspot.com", "location", "ready"];
 $(document)[_0x9828[5]](function() {
