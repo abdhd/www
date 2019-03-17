@@ -3451,17 +3451,17 @@
               var owl = $('.owl-carousel');
               owl.owlCarousel({
                 margin: 10,
-                nav: true,
-                loop: true,
+                nav: false,
+                loop: false,
                 responsive: {
                   0: {
-                    items: 1
+                    items: 11
                   },
                   600: {
-                    items: 3
+                    items: 13
                   },
                   1000: {
-                    items: 5
+                    items: 15
                   }
                 }
               })
